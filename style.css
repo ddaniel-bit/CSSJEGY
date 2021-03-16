@@ -12,11 +12,14 @@ a {
     background-color: white;
     border: 0px;
     align-items: center;
+    text-align: center;
+}
+#table1 img {
+    text-align: center;
 }
 #table1 td {
     margin: 2pt;
     align: center;
-    text-align: center;
 }
 #belso {
     width: 650px;
@@ -29,4 +32,13 @@ a {
     margin: 2pt;
     text-align: center;
     color: white;
+}
+#szoveg {
+    text-align: start;
+}
+#kep {
+    text-align: center;
+}
+#hivat td {
+    text-decoration: underline;
 }
