@@ -5,13 +5,28 @@ body {
 a {
     color: white;
 }
-table {
+#table1 {
     width: 670px;
     margin: auto;
     border-spacing: 2pt;
     background-color: white;
+    border: 0px;
+    align-items: center;
 }
-td {
+#table1 td {
     margin: 2pt;
     align: center;
+    text-align: center;
+}
+#belso {
+    width: 650px;
+    margin: auto;
+    border-spacing: 2pt;
+}
+#belso td {
+    background-color: #485808;
+    height: 60pt;
+    margin: 2pt;
+    text-align: center;
+    color: white;
 }
