@@ -1,0 +1,17 @@
+body {
+    background-color: #999999;
+    color: black;
+}
+a {
+    color: white;
+}
+table {
+    width: 670px;
+    margin: auto;
+    border-spacing: 2pt;
+    background-color: white;
+}
+td {
+    margin: 2pt;
+    align: center;
+}
